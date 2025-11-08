@@ -13,3 +13,14 @@ Allows you to use shears to make tripwire disarmed+powered, which can be used to
 1. Install this mod;
 2. Hold shears (or an item with the `#c:tools/shear` tag) and **right-click** on the connected tripwire;
 3. Done!
+
+### Installation Instructions
+
+This mod must be installed on the server (or in single-player mode), client installation is optional. The following list shows the phenomena of several different installation methods
+
+| Server | Client | Phenomenon                                                                                |
+|--------|--------|-------------------------------------------------------------------------------------------|
+| √      | √      | Mods can work normally, all functions are working well                                 |
+| √      | ×      | Players can change the tripwire status through right-click, but there is no hand movement |
+| ×      | √      | Only effective in single-player mode                                                      |
+| ×      | ×      | No effect                                                                                 |
